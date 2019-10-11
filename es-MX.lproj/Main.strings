@@ -1,0 +1,252 @@
+
+/* Class = "UITabBarItem"; title = "Get Songs"; ObjectID = "2ew-uV-CUX"; */
+"2ew-uV-CUX.title" = "Mas Canciones";
+
+/* Class = "UILabel"; text = "000"; ObjectID = "3n8-T5-ylj"; */
+"3n8-T5-ylj.text" = "000";
+
+/* Class = "UINavigationItem"; title = "Setlists"; ObjectID = "4ti-Jc-8C5"; */
+"4ti-Jc-8C5.title" = "Listas";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "5I4-mH-Lmi"; */
+"5I4-mH-Lmi.text" = "00";
+
+/* Class = "UILabel"; text = "Tempo"; ObjectID = "66x-Ks-rT1"; */
+"66x-Ks-rT1.text" = "Tempo";
+
+/* Class = "UISegmentedControl"; 6Sq-ed-9f4.segmentTitles[0] = "Tempo"; ObjectID = "6Sq-ed-9f4"; */
+"6Sq-ed-9f4.segmentTitles[0]" = "Tempo";
+
+/* Class = "UISegmentedControl"; 6Sq-ed-9f4.segmentTitles[1] = "Settings"; ObjectID = "6Sq-ed-9f4"; */
+"6Sq-ed-9f4.segmentTitles[1]" = "Ajustes";
+
+/* Class = "UIViewController"; title = "Setlists"; ObjectID = "7Qp-V1-nXD"; */
+"7Qp-V1-nXD.title" = "Listas";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "89K-RQ-ueh"; */
+"89K-RQ-ueh.text" = "Nombre";
+
+/* Class = "UILabel"; text = "Loading..."; ObjectID = "98g-OU-i6k"; */
+"98g-OU-i6k.text" = "Cargando";
+
+/* Class = "UILabel"; text = "Seconds"; ObjectID = "9bU-oM-IId"; */
+"9bU-oM-IId.text" = "Segundos";
+
+/* Class = "UILabel"; text = "000"; ObjectID = "9lC-zS-adm"; */
+"9lC-zS-adm.text" = "000";
+
+/* Class = "UITabBarItem"; title = "Setlists"; ObjectID = "ALY-6k-4Ok"; */
+"ALY-6k-4Ok.title" = "Listas";
+
+/* Class = "UITabBarItem"; title = "Composers"; ObjectID = "B4c-Dk-SlZ"; */
+"B4c-Dk-SlZ.title" = "Compositores";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "B52-W8-hxS"; */
+"B52-W8-hxS.text" = "Nombre";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "BPZ-7P-fh2"; */
+"BPZ-7P-fh2.text" = "Nombre";
+
+/* Class = "UILabel"; text = "Show note highlighter"; ObjectID = "COC-XT-ScV"; */
+"COC-XT-ScV.text" = "Muestra el marcador de notas";
+
+/* Class = "UILabel"; text = "Scroller Library"; ObjectID = "CqG-bt-6OE"; */
+"CqG-bt-6OE.text" = "Biblioteca de Scroller";
+
+/* Class = "UIViewController"; title = "Discover"; ObjectID = "Cw9-2r-d0f"; */
+"Cw9-2r-d0f.title" = "Descubrir";
+
+/* Class = "UITabBarItem"; title = "Composers"; ObjectID = "Czw-u6-qqN"; */
+"Czw-u6-qqN.title" = "Compositores";
+
+/* Class = "UITabBarItem"; title = "Discover"; ObjectID = "DlS-4b-Ygl"; */
+"DlS-4b-Ygl.title" = "Descubrir";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Dml-mc-qZr"; */
+"Dml-mc-qZr.text" = "Nombre";
+
+/* Class = "UILabel"; text = "Setlist Title"; ObjectID = "DsF-55-GZc"; */
+"DsF-55-GZc.text" = "Nombre de Lista";
+
+/* Class = "UINavigationItem"; title = "Discover"; ObjectID = "Dzl-sm-3tU"; */
+"Dzl-sm-3tU.title" = "Descubrir";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "E3Q-0G-zk8"; */
+"E3Q-0G-zk8.text" = "Nombre";
+
+/* Class = "UIViewController"; title = "Composers"; ObjectID = "EXq-jZ-5jQ"; */
+"EXq-jZ-5jQ.title" = "Compositores";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "FTA-Bd-nK1"; */
+"FTA-Bd-nK1.text" = "Subtitulo";
+
+/* Class = "UIButton"; normalTitle = "Sheet Scroller Library"; ObjectID = "FjH-4q-sC8"; */
+"FjH-4q-sC8.normalTitle" = "Biblioteca de Scroller";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "GM8-lg-5Vk"; */
+"GM8-lg-5Vk.text" = "Subtitulo";
+
+/* Class = "UILabel"; text = "Welcome to the"; ObjectID = "HPf-PB-U0A"; */
+"HPf-PB-U0A.text" = "Bienvenido a la";
+
+/* Class = "UILabel"; text = "About Scroller"; ObjectID = "Ifv-O0-wQV"; */
+"Ifv-O0-wQV.text" = "Información acerca de Scroller";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "LEe-li-Q9P"; */
+"LEe-li-Q9P.title" = "Buscar";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "LPU-Lp-ezV"; */
+"LPU-Lp-ezV.title" = "atrás";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "LYK-BS-qZb"; */
+"LYK-BS-qZb.text" = "Subtitulo";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Lur-e9-qxQ"; */
+"Lur-e9-qxQ.text" = "Nombre";
+
+/* Class = "UILabel"; text = "BPM"; ObjectID = "M75-zb-Uzo"; */
+"M75-zb-Uzo.text" = "LPM";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "MQh-UX-ECU"; */
+"MQh-UX-ECU.text" = "Nombre";
+
+/* Class = "UILabel"; text = "Loading..."; ObjectID = "Mbv-xT-G0I"; */
+"Mbv-xT-G0I.text" = "Cargando";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "N6S-6H-2AP"; */
+"N6S-6H-2AP.text" = "Nombre";
+
+/* Class = "UIViewController"; title = "Composers"; ObjectID = "NGm-eR-mdO"; */
+"NGm-eR-mdO.title" = "Compositores";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "O4N-dC-Xqe"; */
+"O4N-dC-Xqe.text" = "Ajustes";
+
+/* Class = "UINavigationItem"; title = "Search"; ObjectID = "P5V-fG-ycG"; */
+"P5V-fG-ycG.title" = "Buscar";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Q5F-wE-isC"; */
+"Q5F-wE-isC.text" = "Nombre";
+
+/* Class = "UILabel"; text = "Loading..."; ObjectID = "QIN-cs-Ahl"; */
+"QIN-cs-Ahl.text" = "Cargando";
+
+/* Class = "UILabel"; text = "Loading..."; ObjectID = "Roz-7K-dtu"; */
+"Roz-7K-dtu.text" = "Cargando";
+
+/* Class = "UIViewController"; title = "Search"; ObjectID = "UD3-cp-SAu"; */
+"UD3-cp-SAu.title" = "Buscar";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "X1W-Sl-MN8"; */
+"X1W-Sl-MN8.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "XZJ-gp-92V"; */
+"XZJ-gp-92V.text" = "Subtitulo";
+
+/* Class = "UILabel"; text = "Send suggestions to:"; ObjectID = "Z8t-0m-kGE"; */
+"Z8t-0m-kGE.text" = "Contáctanos:";
+
+/* Class = "UILabel"; text = "Setlist Title"; ObjectID = "ZHM-EZ-Yln"; */
+"ZHM-EZ-Yln.text" = "Nombre de Lista";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "ZYS-rn-Dpu"; */
+"ZYS-rn-Dpu.text" = "Nombre";
+
+/* Class = "UILabel"; text = "Loading..."; ObjectID = "aYU-4w-57r"; */
+"aYU-4w-57r.text" = "Cargando";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "bIw-Au-cHr"; */
+"bIw-Au-cHr.title" = "Atrás";
+
+/* Class = "UINavigationItem"; title = "Search"; ObjectID = "bhy-8W-vud"; */
+"bhy-8W-vud.title" = "Buscar";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "boJ-iE-hep"; */
+"boJ-iE-hep.title" = "Buscar";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "by5-Nf-cny"; */
+"by5-Nf-cny.text" = "Nombre";
+
+/* Class = "UILabel"; text = "Title of song"; ObjectID = "c5f-C1-gB3"; */
+"c5f-C1-gB3.text" = "Nombre de canción";
+
+/* Class = "UILabel"; text = "New songs added regularly"; ObjectID = "dV5-Zl-nvH"; */
+"dV5-Zl-nvH.text" = "Se agregan canciones regularmente";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "eTV-Xo-Eu8"; */
+"eTV-Xo-Eu8.text" = "Subtitulo";
+
+/* Class = "UILabel"; text = "Flare Software LC"; ObjectID = "g4e-21-OyF"; */
+"g4e-21-OyF.text" = "Flare Software LC";
+
+/* Class = "UILabel"; text = "Loading..."; ObjectID = "gF7-JV-9G0"; */
+"gF7-JV-9G0.text" = "Cargando";
+
+/* Class = "UIViewController"; title = "By Dificulty"; ObjectID = "gcy-XE-lEu"; */
+"gcy-XE-lEu.title" = "Aprendizaje";
+
+/* Class = "UINavigationItem"; title = "Browse by Dificulty"; ObjectID = "jZj-Xa-QQL"; */
+"jZj-Xa-QQL.title" = "Listas para el Aprendizaje";
+
+/* Class = "UILabel"; text = "Loading..."; ObjectID = "kTa-Ry-jBq"; */
+"kTa-Ry-jBq.text" = "Cargando";
+
+/* Class = "UIViewController"; title = "ScrollerView"; ObjectID = "mxT-Vp-mgz"; */
+"mxT-Vp-mgz.title" = "ScrollerView";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "nof-EW-9aa"; */
+"nof-EW-9aa.text" = "00";
+
+/* Class = "UINavigationItem"; title = "Composers"; ObjectID = "oK4-vd-a48"; */
+"oK4-vd-a48.title" = "Compositores";
+
+/* Class = "UILabel"; text = "Clayton@FlareSoftware.com"; ObjectID = "onC-P3-VRP"; */
+"onC-P3-VRP.text" = "Clayton@FlareSoftware.com";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "oop-bb-pa4"; */
+"oop-bb-pa4.text" = "Subtitulo";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "p6W-Pc-Ajj"; */
+"p6W-Pc-Ajj.text" = "Subtitulo";
+
+/* Class = "UINavigationItem"; title = "Get Songs"; ObjectID = "qPj-1V-zoR"; */
+"qPj-1V-zoR.title" = "Mas Canciones";
+
+/* Class = "UILabel"; text = "Loading..."; ObjectID = "th2-uO-cEG"; */
+"th2-uO-cEG.text" = "Cargando";
+
+/* Class = "UILabel"; text = "Developed by:"; ObjectID = "tvm-1K-nh5"; */
+"tvm-1K-nh5.text" = "Desarrollado por:";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "vDb-z4-fK9"; */
+"vDb-z4-fK9.text" = "Subtitulo";
+
+/* Class = "UINavigationItem"; title = "Composers"; ObjectID = "wI2-Pe-Lhw"; */
+"wI2-Pe-Lhw.title" = "Compositores";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "xDg-Kg-ZY4"; */
+"xDg-Kg-ZY4.text" = "Nombre";
+
+/* Class = "UIButton"; normalTitle = "< Menu"; ObjectID = "xUg-oC-j8O"; */
+"xUg-oC-j8O.normalTitle" = "< Menú";
+
+/* Class = "UITabBarItem"; title = "By Dificulty"; ObjectID = "xZY-b7-izp"; */
+"xZY-b7-izp.title" = "Aprendizaje";
+
+/* Class = "UIButton"; normalTitle = "next note >"; ObjectID = "yQZ-fm-3Wr"; */
+"yQZ-fm-3Wr.normalTitle" = "otra nota >";
+
+/* Class = "UILabel"; text = "Full tempo:"; ObjectID = "Bli-C3-uR5"; */
+"Bli-C3-uR5.text" = "Tempo Normal:";
+
+/* Class = "UIButton"; text = "Touch here"; ObjectID = "cCF-9c-kyk"; */
+"cCF-9c-kyk.normalTitle" = "Presiona aquí";
+
+/* Class = "UILabel"; text = "Internet connection is required"; ObjectID = "wGj-uh-YLM"; */
+"wGj-uh-YLM.text" = "Conexión a internet es requerida";
+
+/* Class = "UILabel"; text = "Internet connection is required"; ObjectID = "BLd-tn-4Ak"; */
+"BLd-tn-4Ak.text" = "Conexión a internet es requerida";
+
+/* Class = "UILabel"; text = "Internet connection is required"; ObjectID = "RMv-iu-GCb"; */
+"RMv-iu-GCb.text" = "Conexión a internet es requerida";
